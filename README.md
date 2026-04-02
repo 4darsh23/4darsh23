@@ -2,8 +2,8 @@
 - 👀 I’m interested in full stack dev
 - 🌱 I’m currently learning html , java , java script , reactjs, nextjs, typescript and solidity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me -  adarshrajdas23@gmail.com
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
 
 <!---
